@@ -3,7 +3,7 @@ module.exports = {
   content: ["./dist/**/*.{html,js,jsx}"],
   theme: {
     extend: {
-      bakgroundImage: {
+      backgroundImage: {
         "african art": "url('src/images/african-print.png')"
       }
     },
