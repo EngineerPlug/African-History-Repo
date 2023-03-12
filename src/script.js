@@ -1,0 +1,1 @@
+const visits = document.getElementById("footer-p");
